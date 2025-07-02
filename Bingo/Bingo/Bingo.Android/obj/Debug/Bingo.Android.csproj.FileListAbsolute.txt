@@ -1,0 +1,110 @@
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android.pdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android.dll.mdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android.apk
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android-Signed.apk
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.pdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.dll.mdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\Bingo.Android.csprojResolveAssemblyReference.cache
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\Bingo.Android.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\Bingo.Android.pdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\android\bin\Bingo.Android.apk
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_36x36.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_48x48.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_72x72.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_96x96.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_144x144.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\R.cs.flag
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.Android\obj\Debug\uploadflags.txt
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android.dll.mdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android.apk
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.Android-Signed.apk
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Bingo.dll.mdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\Bingo.Android.csprojResolveAssemblyReference.cache
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\Bingo.Android.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\Bingo.Android.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\android\bin\Bingo.Android.apk
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_36x36.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_48x48.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_72x72.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_96x96.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\res\drawable\icon_144x144.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\R.cs.flag
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.Android\obj\Debug\uploadflags.txt
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android.dll.mdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android.apk
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android-Signed.apk
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.dll.mdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.csprojResolveAssemblyReference.cache
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\android\bin\Bingo.Android.apk
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_36x36.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_48x48.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_72x72.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_96x96.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_144x144.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\R.cs.flag
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.Android\obj\Debug\uploadflags.txt
+G:\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.csprojResolveAssemblyReference.cache
+G:\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.dll
+G:\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.pdb
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android.pdb
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android.dll.mdb
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android.apk
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.Android-Signed.apk
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Core.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.pdb
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Bingo.dll.mdb
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Core.xml
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.csprojResolveAssemblyReference.cache
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\Bingo.Android.pdb
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\android\bin\Bingo.Android.apk
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon.png
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_36x36.png
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_48x48.png
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_72x72.png
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_96x96.png
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\icon_144x144.png
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\R.cs.flag
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\uploadflags.txt
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\ip5s_home.png
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\sheet_iphone.png
+G:\Xamarin Examples\Bingo\Bingo\Bingo.Android\obj\Debug\res\drawable\settings_icon_32.png

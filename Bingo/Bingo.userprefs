@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Bingo\Bingo.Android\Bingo.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.22" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bingo\Bingo\BingoPage.cs">
+    <Files>
+      <File FileName="Bingo\Bingo\BingoItemCell.cs" Line="1" Column="1" />
+      <File FileName="Bingo\Bingo\BingoPage.cs" Line="30" Column="1" />
+      <File FileName="Bingo\Bingo\BingoPageItems.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

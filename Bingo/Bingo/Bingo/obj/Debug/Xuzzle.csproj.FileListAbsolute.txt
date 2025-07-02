@@ -1,0 +1,8 @@
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xuzzle.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xuzzle.pdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Core.xml
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\obj\Debug\Xuzzle.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\obj\Debug\Xuzzle.pdb

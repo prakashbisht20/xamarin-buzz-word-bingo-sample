@@ -1,0 +1,43 @@
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Bingo.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Bingo.pdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Core.xml
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\obj\Debug\Bingo.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle\obj\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle\bin\Debug\Bingo.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle\bin\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle\obj\Debug\Bingo.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle\obj\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\bin\Debug\Bingo.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\obj\Debug\Bingo.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo\obj\Debug\Bingo.csprojResolveAssemblyReference.cache
+G:\Bingo\Bingo\Bingo\bin\Debug\Bingo.dll
+G:\Bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+G:\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Core.dll
+G:\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Core.xml
+G:\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Bingo\Bingo\Bingo\obj\Debug\Bingo.csprojResolveAssemblyReference.cache
+G:\Bingo\Bingo\Bingo\obj\Debug\Bingo.dll
+G:\Bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+G:\Xamarin Examples\Bingo\Bingo\Bingo\bin\Debug\Bingo.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+G:\Xamarin Examples\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Core.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Core.xml
+G:\Xamarin Examples\Bingo\Bingo\Bingo\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Xamarin Examples\Bingo\Bingo\Bingo\obj\Debug\Bingo.csprojResolveAssemblyReference.cache
+G:\Xamarin Examples\Bingo\Bingo\Bingo\obj\Debug\Bingo.dll
+G:\Xamarin Examples\Bingo\Bingo\Bingo\obj\Debug\Bingo.pdb

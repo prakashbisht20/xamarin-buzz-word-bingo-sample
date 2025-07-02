@@ -1,0 +1,99 @@
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small-40@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small-40.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small-50@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small-50.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-60@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-72.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-72@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-76.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-76@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Default.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Default@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Default-568h@2x.png
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Bingo.iOS.csprojResolveAssemblyReference.cache
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\BingoiOS.exe
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\BingoiOS.pdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Bingo.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Bingo.pdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\BingoiOS.exe
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\BingoiOS.pdb
+E:\Xamrine Projects\xamarin-forms-samples-master\xamarin-forms-samples-master\Xuzzle\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Bingo.dll.mdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\BingoiOS.exe
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\BingoiOS.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Bingo.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Bingo.dll.mdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small-40@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small-40.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small-50@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small-50.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-Small.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-60@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-72.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-72@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-76.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Icon-76@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Default.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Default@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Default-568h@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\Bingo.iOS.csprojResolveAssemblyReference.cache
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\BingoiOS.exe
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Xuzzle\Xuzzle.iOS\obj\iPhoneSimulator\Debug\BingoiOS.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\BingoiOS.exe
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\BingoiOS.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\Bingo.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\Bingo.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\Bingo.dll.mdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Bingo.iOS.csprojResolveAssemblyReference.cache
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\BingoiOS.exe
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\BingoiOS.pdb
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-Small-40@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-Small-40.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-Small-50@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-Small-50.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-Small@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-Small.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-60@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-72.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-72@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-76.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Icon-76@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Default.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Default@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Default-568h@2x.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Refresh_Icon_32.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Settings_Icon_32.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Sheet_iphone_vertical.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Home_iphone_vertical.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Home_iphone.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Home_ipad_Vertical.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Sheet_ipad_Vertical.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\ipad.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\ipad_home.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\ip5s_home.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Sheet_iphone.png
+C:\Users\administrator.TESTLAB\Desktop\Bingo\Bingo\Bingo.iOS\obj\iPhoneSimulator\Debug\Sheet_ipad.png
